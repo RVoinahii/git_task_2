@@ -4,7 +4,14 @@
 4 change from git_1 number 2
 5
 6
+<<<<<<< HEAD
 7
 8
 9 change from folder 1
 10 change from folder 1
+=======
+7 change from folder 2
+8 change from folder 2
+9
+10
+>>>>>>> 755aed3409c16e2c1bfb4001cd54bb971df7b78f
